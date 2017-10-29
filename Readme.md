@@ -1,5 +1,8 @@
 # IT Project 18'
 
+<<<<<<< HEAD
+Develop and deploy a professional looking medcine store application using ASP.NET and C#, and Microsoft SQL Server.
+=======
 Develop and deploy a professional looking medcine store application.
 
 ## Case Study – Medicine Shop Software (MSS):
@@ -43,3 +46,4 @@ cash receipt. The computer should also generate the revenue for each day and at
 the end of the month, the computer should generate a graph showing the total
 sales for each day of the month and also these figures for any given medicine. It
 should also show the vendor wise payments for the period.
+>>>>>>> upstream/master
